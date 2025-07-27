@@ -1,12 +1,24 @@
-# React + Vite
+# Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es un ejercicio práctico de desarrollo de una aplicación simple del clima utilizando **React** y la **API de OpenWeather**.
 
-Currently, two official plugins are available:
+La aplicación permite consultar el estado del clima en distintas ciudades, mostrando datos como temperatura, humedad, descripción del clima y otros detalles relevantes obtenidos directamente desde la API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+El desarrollo de este proyecto se basó en el siguiente video tutorial del canal *GreatStack* en YouTube:
 
-## Expanding the ESLint configuration
+📺 **How To Make Weather App Using React JS 2024 | Weather API React Project Tutorial**  
+🔗 [Ver en YouTube](https://www.youtube.com/watch?v=zs1Nq2s_uy4)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tecnologías utilizadas
+
+- React JS
+- HTML & CSS
+- API REST (OpenWeather)
+
+---
+
+## Objetivo
+
+Este proyecto fue realizado con fines educativos, con el objetivo de reforzar conocimientos en el uso de React, consumo de APIs REST y diseño de interfaces web responsivas.
